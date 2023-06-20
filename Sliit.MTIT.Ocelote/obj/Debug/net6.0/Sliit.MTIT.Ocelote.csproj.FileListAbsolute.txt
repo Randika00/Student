@@ -1,0 +1,82 @@
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\appsettings.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\ocelot.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.exe
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.deps.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.runtimeconfig.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.pdb
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.AssemblyReference.cache
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.AssemblyInfoInputs.cache
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.AssemblyInfo.cs
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.CoreCompileInputs.cache
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Ocelote.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Ocelote.props
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Ocelote.props
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Ocelote.props
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Ocelote.styles.css
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.CopyComplete
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\refint\Sliit.MTIT.Ocelote.dll
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.pdb
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.genruntimeconfig.cache
+C:\Users\ishi\Documents\SLIIT\2023\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\ref\Sliit.MTIT.Ocelote.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\appsettings.Development.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\appsettings.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.exe
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\ocelot.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.deps.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.runtimeconfig.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Sliit.MTIT.Ocelote.pdb
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\FluentValidation.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Ocelot.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.AssemblyReference.cache
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.GeneratedMSBuildEditorConfig.editorconfig
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.AssemblyInfoInputs.cache
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.AssemblyInfo.cs
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.CoreCompileInputs.cache
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.MvcApplicationPartsAssemblyInfo.cs
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.MvcApplicationPartsAssemblyInfo.cache
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Ocelote.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Ocelote.props
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Ocelote.props
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Ocelote.props
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.pack.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.build.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\staticwebassets.development.json
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Ocelote.styles.css
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.csproj.CopyComplete
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\refint\Sliit.MTIT.Ocelote.dll
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.pdb
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\Sliit.MTIT.Ocelote.genruntimeconfig.cache
+E:\SLIIT\4rt Year\1st Sem\MTIT\Labs\LabSheetPracticle\Sliit.MTIT\Sliit.MTIT.Ocelote\obj\Debug\net6.0\ref\Sliit.MTIT.Ocelote.dll
